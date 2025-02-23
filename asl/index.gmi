@@ -1,6 +1,6 @@
 #the River Pishon
 
-```pishon.garden
+```ASCII art of pishon.garden
          _     __                               __       
    ___  (_)__ / /  ___  ___   ___ ____ ________/ /__ ___ 
   / _ \/ (_-</ _ \/ _ \/ _ \_/ _ `/ _ `/ __/ _  / -_) _ \
@@ -8,7 +8,19 @@
 /_/                         /___/
 ```
 
-Welcome! I'm Alexa—this is my first attempt joining the gemini-sphere.
+Hi! I'm Alexa Lake, a Quaker seminarian in Pittsburgh, PA. This site my personal landing page which I may turn into a blog.
 
-You can find me on the fediverse:
-=> https://gts.pishon.garden/@lxak @lxak@gts.pishon.garden
+You can also find me on:
+=> https://gts.pishon.garden/@lxak the Fediverse/Mastodon
+=> https://www.flickr.com/photos/201630427@N05/ Flickr
+
+## About this site
+
+You're likely viewing this from a web browser, but this site is primarily a Gemini capsule. While links to external websites will function normally, links to external Gemini sites require special software. Gemini is a protocol newer than http which lacks trackers, cookies, banner ads, 'AI,' etc. It prioritizes simpicity. You can learn more below:
+=> gemini://geminiprotocol.net geminiprotocol.net (Gemini)
+=> https://geminiprotocol.net geminiprotocol.net (Web)
+=> https://indieweb.org indieweb.org
+
+Hosting for this page is provided by the lovely:
+=> https://sdf.org SDF Public Access UNIX System, an amazing retro-computing community
+
