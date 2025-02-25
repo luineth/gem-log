@@ -18,3 +18,5 @@ You're likely viewing this from a web browser, but this site is primarily a Gemi
 => gemini://geminiprotocol.net geminiprotocol.net (via Gemini)
 => gemini://skyjake.fi/lagrange/ LaGrance, my client of choice
 
+All content licensed CC-BY-SA 4.0 unless otherwise stated:
+=> LICENSE.gmi View a local copy here
