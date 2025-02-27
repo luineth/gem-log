@@ -1,9 +1,10 @@
+# Pishon.Garden
+
 ```ASCII art of pishon.garden
-         _     __                               __       
-   ___  (_)__ / /  ___  ___   ___ ____ ________/ /__ ___ 
-  / _ \/ (_-</ _ \/ _ \/ _ \_/ _ `/ _ `/ __/ _  / -_) _ \
- / .__/_/___/_//_/\___/_//_(_)_, /\_,_/_/  \_,_/\__/_//_/
-/_/                         /___/
+                                           
+     '   _  /            _  _  _  _/  _    
+ /) /  _)  /) () /) .   (/ (/ /  (/  (- /) 
+/                      _/                  
 ```
 
 Hi! I'm Alexa Lake, a Quaker seminarian in Pittsburgh, PA. This site my personal landing page which I may turn into a blog.
@@ -14,9 +15,7 @@ You can also find me on:
 
 ## About this site
 
-You're likely viewing this from a web browser, but this site is primarily a Gemini capsule. Links to other Gemini sites should be proxied, but for the Best Experience™, try out a Gemini browser! Gemini is a protocol newer than http which lacks trackers, cookies, banner ads, 'AI,' etc. It prioritizes simpicity. You can learn more below:
-=> gemini://geminiprotocol.net geminiprotocol.net (via Gemini)
-=> gemini://skyjake.fi/lagrange/ LaGrance, my client of choice
+=> about-gemini.gmi What's "Gemini?"
 
-All content licensed CC-BY-SA 4.0 unless otherwise stated:
-=> LICENSE.gmi View a local copy here
+Content by Alexa Lake
+=> LICENSE.gmi CC-BY-SA 4.0: License info here

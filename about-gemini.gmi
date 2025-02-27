@@ -1,0 +1,9 @@
+# What's Gemini?
+
+You're likely viewing this from a web browser, but this site is primarily a Gemini capsule. Gemini is a modern alternative to the more complex HTTP and the simpler Gopher—it is meant to co-exist with these protocols, not replace them.
+
+Links to other Gemini sites should be proxied if you're in a browser, but for the best experience, try out a Gemini browser! There's a small but dedicated community of users who self-publish blogs (often called "GemLogs"), articles, and art. You can learn more below:
+=> gemini://geminiprotocol.net geminiprotocol.net
+=> gemini://skyjake.fi/lagrange Lagrange Gemini Browser, by client software of choice
+
+=> index.gmi Go back
