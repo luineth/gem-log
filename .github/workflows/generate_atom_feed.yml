@@ -24,6 +24,11 @@ jobs:
         run: |
           ./.modules/gemlog/gemlog.sh ./posts # Run the script
 
+      - name: Debug output
+        run: |
+          ls -lah ./
+          ls -lah ./posts
+
       - name: Commit and push Atom feed
         run: |
           git config --global user.name "GitHub Actions"
