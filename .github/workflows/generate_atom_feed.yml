@@ -17,9 +17,7 @@ jobs:
 
       - name: Set up gemlog.sh
         run: |
-          cp .config/gemlog.sh/config.sh ~/.config/gemlog.sh/
-          cp .config/gemlog.sh/header.gmi ~/.config/gemlog.sh/
-          cp .config/gemlog.sh/footer.gmi ~/.config/gemlog.sh/
+          cp .config/gemlog.sh/* ~/.config/gemlog.sh/
 
       - name: Generate Atom feed and Gemlog Index
         run: |
