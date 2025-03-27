@@ -23,7 +23,7 @@ jobs:
       - name: Generate Atom feed and Gemlog Index
         run: |
           cd posts  # Move into the posts directory where your content is
-          ../.modules/gemlog.sh/gemlog.sh  # Run the script
+          ../.modules/gemlog/gemlog.sh  # Run the script
 
       - name: Move atom.xml and index.gmi to root
         run: |
