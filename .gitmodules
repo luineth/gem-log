@@ -1,0 +1,3 @@
+[submodule ".modules/gemlog"]
+	path = .modules/gemlog
+	url = https://git.sr.ht/~nytpu/gemlog.sh
