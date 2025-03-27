@@ -28,6 +28,7 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add index.gmi
-          git commit -m "Update index.gmi" || echo "No changes to commit"
+          git add posts/index.gmi
+          git add posts/atom.xml
+          git commit -m "Update index.gmi and Atom feed" || echo "No changes to commit"
           git push
