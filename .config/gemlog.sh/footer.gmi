@@ -1,0 +1,10 @@
+
+
+──────────────────
+
+=> / go home
+
+=> $feed_base_url$gemlog_feed this gemlog has an atom feed at: $feed_base_url$gemlog_feed
+=> $feed_web_url$gemlog_feed or through the web at: $feed_web_url$gemlog_feed
+
+=> $gemlog_sh_link generated with gemlog.sh

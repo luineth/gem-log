@@ -1,0 +1,39 @@
+name: Generate Atom Feed
+
+on:
+  push:
+    branches:
+      - main
+      - atom-feed #temp during testing
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository with submodules
+        uses: actions/checkout@v3
+        with:
+          submodules: true  # checkout submodules
+
+      - name: Set up gemlog.sh
+        run: |
+          cp .config/gemlog.sh/config.sh ~/.config/gemlog.sh/
+          cp .config/gemlog.sh/header.gmi ~/.config/gemlog.sh/
+          cp .config/gemlog.sh/footer.gmi ~/.config/gemlog.sh/
+
+      - name: Generate Atom feed and Gemlog Index
+        run: |
+          cd posts  # Move into the posts directory where your content is
+          ../.modules/gemlog.sh/gemlog.sh  # Run the script
+
+      - name: Move atom.xml and index.gmi to root
+        run: |
+          mv atom.xml index.gmi ../
+
+      - name: Commit and push Atom feed
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add atom.xml
+          git commit -m "Update Atom feed" || echo "No changes to commit"
+          git push
