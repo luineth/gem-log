@@ -28,6 +28,7 @@ jobs:
         run: |
           ls -lah ./
           ls -lah ./posts
+          ls -lah ./modules/gemlog
 
       - name: Commit and push Atom feed
         run: |
