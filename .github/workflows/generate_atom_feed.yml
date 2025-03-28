@@ -22,7 +22,7 @@ jobs:
 
       - name: Generate Atom feed and Gemlog Index
         run: |
-          ./.modules/gemlog/gemlog.sh ./posts # Run the script
+          ./.modules/gemlog/gemlog.sh
 
       - name: Commit and push Atom feed
         run: |
