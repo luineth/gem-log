@@ -5,6 +5,7 @@ on:
     branches:
       - main
       - atom-feed #temp during testing
+      - testing
 
 jobs:
   build:
