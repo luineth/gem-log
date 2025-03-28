@@ -4,7 +4,7 @@
   <subtitle>a gemlog about gemlogs</subtitle>
   <link rel='self' href='gemini://example.com/gemlog/atom.xml'/>
   <link rel='alternate' href='gemini://example.com/gemlog/index.gmi'/>
-  <updated>2025-03-28T01:01:18+0000</updated>
+  <updated>2025-03-28T01:05:31+0000</updated>
   <author>
     <name>example</name>
     <email>you@example.com</email>
@@ -16,8 +16,8 @@
 
   <entry>
     <title>This is an example post</title>
-    <id>gemini://example.com/gemlog/posts/2025-03-27.gmi</id>
-    <link rel='alternate' href='gemini://example.com/gemlog/posts/2025-03-27.gmi'/>
+    <id>gemini://example.com/gemlog/2025-03-27.gmi</id>
+    <link rel='alternate' href='gemini://example.com/gemlog/2025-03-27.gmi'/>
     <updated>2025-03-27T12:00:00+0000</updated>
   </entry>
 </feed>
