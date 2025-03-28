@@ -1,21 +1,24 @@
-# Pishon.Garden
-
-```ASCII art of pishon.garden
-                                           
-     '   _  /            _  _  _  _/  _    
- /) /  _)  /) () /) .   (/ (/ /  (/  (- /) 
-/                      _/                  
+```wow, alt text! wouldn't you love to help people with screenreaders too?
+┌──────────────────┐
+│                  │
+│ YOUR             │
+│                  │
+│       ART        │
+│                  │
+│             HERE │
+│                  │
+└──────────────────┘
 ```
 
-Hi! I'm Alexa Lake, a Quaker seminarian in Pittsburgh, PA. This site my personal landing page which I may turn into a blog.
+it's my gemlog all right!
+=> 2025-03-27.gmi  — This is an example post
 
-You can also find me on:
-=> https://gts.pishon.garden/@lxak the Fediverse/Mastodon
-=> https://www.flickr.com/photos/201630427@N05/ Flickr
 
-## About this site
+──────────────────
 
-=> about-gemini.gmi What's "Gemini?"
+=> / go home
 
-Content by Alexa Lake
-=> LICENSE.gmi CC-BY-SA 4.0: License info here
+=> gemini://example.com/gemlog/atom.xml this gemlog has an atom feed at: gemini://example.com/gemlog/atom.xml
+=> https://example.com/files/atom.xml or through the web at: https://example.com/files/atom.xml
+
+=> https://git.sr.ht/~nytpu/gemlog.sh generated with gemlog.sh
