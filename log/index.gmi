@@ -13,16 +13,11 @@
 it's my gemlog all right!
 
 
-## 2025
-
-=> 2025-03-27.gmi 2025-03-27 — This is an example post
-
-
 ──────────────────
 
 => / go home
 
-=> gemini://example.com/gemlog/atom.xml this gemlog has an atom feed at: gemini://example.com/gemlog/atom.xml
-=> https://example.com/files/atom.xml or through the web at: https://example.com/files/atom.xml
+=> gemini://pishon.garden/log/atom.xml this gemlog has an atom feed at: gemini://pishon.garden/log/atom.xml
+=> https://pishon.garden/log/atom.xml or through the web at: https://pishon.garden/log/atom.xml
 
 => https://git.sr.ht/~nytpu/gemlog.sh generated with gemlog.sh

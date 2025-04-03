@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>my gemlog</title>
+  <subtitle>a gemlog about gemlogs</subtitle>
+  <link rel='self' href='gemini://pishon.garden/log/atom.xml'/>
+  <link rel='alternate' href='gemini://pishon.garden/log/index.gmi'/>
+  <updated>2025-04-03T04:41:41+0000</updated>
+  <author>
+    <name>Alexa Kay</name>
+    <email></email>
+    <uri>gemini://pishon.garden/</uri>
+  </author>
+  <id>gemini://pishon.garden/log/</id>
+  <generator uri='https://git.sr.ht/~nytpu/gemlog.sh'>gemlog.sh</generator>
+  <rights>© Alexa Kay - CC BY SA 4.0</rights>
+</feed>
