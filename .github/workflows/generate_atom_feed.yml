@@ -1,6 +1,9 @@
 name: Generate Atom Feed
 
 on:
+  workflow_dispatch:
+    branches:
+      - *
   push:
     branches:
       - main
