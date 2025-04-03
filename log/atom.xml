@@ -4,7 +4,7 @@
   <subtitle>a gemlog about gemlogs</subtitle>
   <link rel='self' href='gemini://pishon.garden/log/atom.xml'/>
   <link rel='alternate' href='gemini://pishon.garden/log/index.gmi'/>
-  <updated>2025-04-03T04:41:41+0000</updated>
+  <updated>2025-04-03T04:43:04+0000</updated>
   <author>
     <name>Alexa Kay</name>
     <email></email>
@@ -13,4 +13,11 @@
   <id>gemini://pishon.garden/log/</id>
   <generator uri='https://git.sr.ht/~nytpu/gemlog.sh'>gemlog.sh</generator>
   <rights>© Alexa Kay - CC BY SA 4.0</rights>
+
+  <entry>
+    <title>This is an example post</title>
+    <id>gemini://pishon.garden/log/2025-03-27.gmi</id>
+    <link rel='alternate' href='gemini://pishon.garden/log/2025-03-27.gmi'/>
+    <updated>2025-03-27T12:00:00+0000</updated>
+  </entry>
 </feed>
